@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-03-31T07:18:06.931Z</updated>
+  <updated>2016-03-31T07:19:12.944Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://yoursite.com/2016/03/31/first-post/"/>
     <id>http://yoursite.com/2016/03/31/first-post/</id>
     <published>2016-03-31T07:18:05.000Z</published>
-    <updated>2016-03-31T07:18:06.931Z</updated>
+    <updated>2016-03-31T07:19:12.944Z</updated>
     
-    <content type="html">&lt;p&gt;#start from hello world  &lt;/p&gt;
+    <content type="html">&lt;p&gt;start from hello world  &lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;#include &amp;lt;stdio.h&amp;gt;
 int main()
 {
@@ -34,7 +34,7 @@ int main()
     
     <summary type="html">
     
-      &lt;p&gt;#start from hello world  &lt;/p&gt;
+      &lt;p&gt;start from hello world  &lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;#include &amp;lt;stdio.h&amp;gt;
 int main()
 {
@@ -42,7 +42,7 @@ int main()
 
     return 0;
 }
-&lt;/
+&lt;/c
     
     </summary>
     
