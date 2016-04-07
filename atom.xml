@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-07T07:40:34.443Z</updated>
+  <updated>2016-04-07T07:41:28.727Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://yoursite.com/2016/04/07/%E5%BE%AE%E8%BD%AF2016%E5%AE%9E%E4%B9%A0%E7%94%9F%E7%AC%94%E8%AF%95%E9%A2%98-Demo-Day/"/>
     <id>http://yoursite.com/2016/04/07/微软2016实习生笔试题-Demo-Day/</id>
     <published>2016-04-07T07:10:20.000Z</published>
-    <updated>2016-04-07T07:40:34.443Z</updated>
+    <updated>2016-04-07T07:41:28.727Z</updated>
     
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;题目&lt;/strong&gt;：Demo Day&lt;br&gt;&lt;strong&gt;描述&lt;/strong&gt;：You work as an intern at a robotics startup. Today is your company’s demo day. During the demo your company’s robot will be put in a maze and without any information about the maze, it should be able to find a way out.&lt;br&gt;The maze consists of N * M grids. Each grid is either empty(represented by ‘.’) or blocked by an obstacle(represented by ‘b’). The robot will be release at the top left corner and the exit is at the bottom right corner.&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;br&gt;Unfortunately some sensors on the robot go crazy just before the demo starts. As a result, the robot can only repeats two operations alternatively: keep moving to the right until it can’t and keep moving to the bottom until it can’t. At the beginning, the robot keeps moving to the right.&lt;/p&gt;
@@ -72,10 +72,10 @@
     <link href="http://yoursite.com/2016/04/01/leetcode-04/"/>
     <id>http://yoursite.com/2016/04/01/leetcode-04/</id>
     <published>2016-04-01T09:01:51.000Z</published>
-    <updated>2016-04-07T03:10:31.723Z</updated>
+    <updated>2016-04-07T07:44:32.699Z</updated>
     
     <content type="html">&lt;blockquote&gt;
-&lt;p&gt;题目：Median of Two Sorted Arrays&lt;br&gt;描述：There are two sorted arrays nums1 and nums2 of size m and n respectively. Find the&lt;br&gt;median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;题目&lt;/strong&gt;：Median of Two Sorted Arrays&lt;br&gt;&lt;strong&gt;描述&lt;/strong&gt;：There are two sorted arrays nums1 and nums2 of size m and n respectively. Find the&lt;br&gt;median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;　　这个题要求“两个有序数组的中位数”，我们可以推广到求“两个有序数组的第k小的数(findKth)”。题目要求算&lt;br&gt;法的时间复杂度为O(log (m+n))，很明显不能简单地进行归并，这种时间复杂度容易联想到二分查找的思&lt;br&gt;想。findKth关键思想如下：&lt;/p&gt;
 &lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
@@ -92,7 +92,7 @@
     <summary type="html">
     
       &lt;blockquote&gt;
-&lt;p&gt;题目：Median of Two Sorted Arrays&lt;br&gt;描述：There are two sorted arrays nums1 and nums2 of size m and n respectively. Find the&lt;br&gt;median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;题目&lt;/strong&gt;：Median of Two Sorted Arrays&lt;br&gt;&lt;strong&gt;描述&lt;/strong&gt;：There are two sorted arrays nums1 and nums2 of size m and n respectively. Find the&lt;br&gt;median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;　　这个题要求“两个有序数组的中位数”，我们可以推广到求“两个有序数组的第k小的数(findKth)”。题目要求算&lt;br&gt;法的时间复杂度为O(log (m+n))，很明显不能简单地进行归并，这种时间复杂度容易联想到二分查找的思&lt;br&gt;想。findKth关键思想如下：&lt;/p&gt;
     
