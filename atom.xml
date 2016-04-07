@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-04-07T03:07:45.949Z</updated>
+  <updated>2016-04-07T03:09:46.818Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,13 +20,13 @@
     <link href="http://yoursite.com/2016/04/01/leetcode-04/"/>
     <id>http://yoursite.com/2016/04/01/leetcode-04/</id>
     <published>2016-04-01T09:01:51.000Z</published>
-    <updated>2016-04-07T03:07:45.949Z</updated>
+    <updated>2016-04-07T03:09:46.818Z</updated>
     
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;题目：Median of Two Sorted Arrays&lt;br&gt;描述：There are two sorted arrays nums1 and nums2 of size m and n respectively. Find the&lt;br&gt;median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;　　这个题要求“两个有序数组的中位数”，我们可以推广到求“两个有序数组的第k小的数(findKth)”。题目要求算&lt;br&gt;法的时间复杂度为O(log (m+n))，很明显不能简单地进行归并，这种时间复杂度容易联想到二分查找的思&lt;br&gt;想。findKth关键思想如下：&lt;/p&gt;
-&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;p&gt;…&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;ol&gt;
 &lt;li&gt;开始时检测边界条件(数组长度是否为0，k是否为0)&lt;/li&gt;
@@ -43,6 +43,7 @@
 &lt;p&gt;题目：Median of Two Sorted Arrays&lt;br&gt;描述：There are two sorted arrays nums1 and nums2 of size m and n respectively. Find the&lt;br&gt;median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;　　这个题要求“两个有序数组的中位数”，我们可以推广到求“两个有序数组的第k小的数(findKth)”。题目要求算&lt;br&gt;法的时间复杂度为O(log (m+n))，很明显不能简单地进行归并，这种时间复杂度容易联想到二分查找的思&lt;br&gt;想。findKth关键思想如下：&lt;/p&gt;
+&lt;p&gt;…
     
     </summary>
     
